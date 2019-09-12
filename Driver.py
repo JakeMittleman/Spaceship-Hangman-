@@ -1,10 +1,3 @@
-'''
-    CS5001
-    Fall 2018
-    Jake Mittleman
-    HW 5
-'''
-
 from spaceship import *
 from graphics import *
 import turtle
